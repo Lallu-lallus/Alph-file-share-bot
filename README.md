@@ -1,4 +1,4 @@
-# GoFilesBot 🗂
+# Alph-file-share-bot 🗂
 
 A Telegram Filter bot (Especially for movie groups) differed with its mode of operation.
 
@@ -51,7 +51,7 @@ GROUP_U_NAME    - Username of the group to tag in sending medias
 
 ### Deploy Easy Way:
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/m4mallu/gofilesbot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Lallu-lallus/Alph-file-share-bot)
 
 ### Deploy Hard Way: 
 
