@@ -3,8 +3,7 @@
 class Presets(object):
     CAPTION_TEXT_DOC = "\n\n<b>File Name:</b> {}\n\n<b>Format:</b> {}\n<b>Size:</b> {}"
     CAPTION_TEXT_VID = "\n\n<b>File Name:</b> {}\n\n<b>Size:</b> {}"
-    ASK_PM_TEXT = "<b>Hey.. 
-👇നിങ്ങൾ ചോദിച്ച മൂവി ലഭിക്കാൻ താഴെ കാണുന്ന ബട്ടണിൽ ക്ലിക്ക് ചെയ്യുക😇</b>"
+    ASK_PM_TEXT = "<b>Hey.. 👇നിങ്ങൾ ചോദിച്ച മൂവി ലഭിക്കാൻ താഴെ കാണുന്ന ബട്ടണിൽ ക്ലിക്ക് ചെയ്യുക😇</b>"
     WELCOME_TEXT = "Hello.. <b>{}<\b>\n<code> I'm a single auto filter botAdd me to your group and make me an admin and join </code> @tg_bots_disccurssions. " \
                    "<code>Then see my pevers✨</code>😉\n\n" \
                    "<b>My code can be seen: </b><a href='https://github.com/m4mallu/gofilesbot'> HERE</a>"
